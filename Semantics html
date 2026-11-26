@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <header>
+        <h1>B.TECH Technology Solutions</h1>
+        <nav>
+            <a href="/">Home</a> |
+            <a href="/services">Services</a> |
+            <a href="/contact">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Your trusted tech partner in Lagos.</p>
+        </section>
+    </main>
+    <footer>
+        <p>$copy; 2024 B.TECH. All rights reserved.</p>
+    </footer>
+</body>
+</html>
